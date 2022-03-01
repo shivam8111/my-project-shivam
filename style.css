@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(https://previews.123rf.com/images/tuiphotoengineer/tuiphotoengineer1506/tuiphotoengineer150600110/40962834-grunge-hintergrund-schwarz-wei%C3%9F-mauer-textur-hell-verputzten-wand-und-blockiert-stra%C3%9Fe-b%C3%BCrgersteig-a.jpg);
+
+}
+.font-style{
+    font-size: 40px;
+    font-family: 'Syne Mono', monospace;
+    color: black;
+    text-shadow: 3px 3px 3px #ababab;
+}
+.footer{
+    position: fixed;
+    background-color: black;
+    color: lightsalmon;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
+}
+.name{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: 'Shizuru', cursive;
+
+
+}
+
+
+.icon{
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 5px;
+    font-size: 25px;
+    color: lightsalmon;
+}
